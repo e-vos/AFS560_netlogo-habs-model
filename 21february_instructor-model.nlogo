@@ -1,7 +1,7 @@
 ;; File: 21february_instructor-model.nlogo
 ;; Author: Dr. Tyler Pavlowich
 ;; Date: 21 February 2023
-;; Class: AFS 560: Ecosystem-based Fisheries Science and Management
+;; Class: AFS 560
 
 ; Setup the simulation
 
