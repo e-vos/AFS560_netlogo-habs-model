@@ -1,5 +1,5 @@
 ;; File: 21february_instructor-model.nlogo
-;; Author: Elliot Vosburgh
+;; Author: Dr. Tyler Pavlowich
 ;; Date: 21 February 2023
 ;; Class: AFS 560: Ecosystem-based Fisheries Science and Management
 
